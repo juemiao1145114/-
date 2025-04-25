@@ -1,0 +1,4 @@
+#ifndef TOUWENJIAN2_H
+#define TOUWENJIAN2_H
+
+#endif // TOUWENJIAN2_H
